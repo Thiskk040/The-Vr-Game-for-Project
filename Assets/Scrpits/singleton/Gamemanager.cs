@@ -70,18 +70,19 @@ public class Gamemanager : MonoBehaviour
     }
     void Update()
     {
-        PressButtontoMain();
         if(TimerOn)
         {
             if(Timeleft > 0)
             {
                 Timeleft -= Time.deltaTime;
                 updatetimer(Timeleft);
+                PressButtontoMain();
             }
             else
             {
                 Debug.Log("Time is up");
                 Timeleft = 0;
+                SceneManager.LoadScene(0);
                 TimerOn = false;
             }
         }    

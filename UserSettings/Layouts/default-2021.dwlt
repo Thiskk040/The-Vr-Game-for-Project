@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 114
+  controlID: 125
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 119
+  controlID: 101
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 31
+  controlID: 82
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -732,9 +732,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 92830000
-      m_LastClickedID: 0
-      m_ExpandedIDs: b8f8ffff2efbffff
+      m_SelectedIDs: 86e70100
+      m_LastClickedID: 124806
+      m_ExpandedIDs: f2d7feff16d9feff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -808,14 +808,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\user\Desktop\VRTK.Tutorials.VRBowling-master\VRTK.Tutorials.VRBowling-master
+  m_LastProjectPath: C:\Users\user\Desktop\The-Vr-Game-for-Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 37}
-    m_SelectedIDs: 5e810000
-    m_LastClickedID: 33118
-    m_ExpandedIDs: 00000000228100002481000026810000288100002a8100002c8100002e8100003081000032810000348100003681000000ca9a3b
+    scrollPos: {x: 0, y: 157}
+    m_SelectedIDs: 2ee40100
+    m_LastClickedID: 123950
+    m_ExpandedIDs: 0000000010e4010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -843,7 +843,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000228100002481000026810000288100002a8100002c8100002e81000030810000328100003481000036810000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
